@@ -14,3 +14,5 @@ a*b
 a+2*b
 z=5
 
+git status
+git branch <why>
