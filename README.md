@@ -13,4 +13,5 @@ a/b
 a*b
 a+2*b
 z=5
+today is monday
 
