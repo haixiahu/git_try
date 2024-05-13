@@ -16,3 +16,5 @@ z=5
 
 git status
 git branch <why>
+renew in github
+find in Rstudio
